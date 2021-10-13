@@ -22,15 +22,11 @@ term-tools adalah sebuah tools yg berisi game dan lain lain
 ```
 5 game in termux ✔
 ```
-```
 encrypt py emoji ✅
-```
 ```
 cek internet ✅
 ```
-```
 no key ✅
-```
 ```
 jadwal sholat ✅
 ```
