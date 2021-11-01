@@ -1,6 +1,6 @@
 ![asu](https://img.shields.io/badge/Code-BY%20POLYGON-yellowgreen)
 ![asu](https://img.shields.io/badge/Made-INDONESIA-red)      
-            ![asu](https://img.shields.io/badge/Program-Bash-blue)
+                         ![asu](https://img.shields.io/badge/Program-Bash-blue)
 
 
 
