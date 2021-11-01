@@ -1,3 +1,11 @@
+![asu](https://img.shields.io/badge/Code-BY%20POLYGON-yellowgreen)
+![asu](https://img.shields.io/badge/Made-INDONESIA-red)
+
+![asu](https://img.shields.io/badge/Program-Bash-blue)
+
+
+
+
 term-tools adalah sebuah tools yg berisi game dan lain lain
 
 
@@ -26,4 +34,4 @@ jadwal sholat ✅
 
 support me
 
-[youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+![youtube](https://img.shields.io/badge/ME-Youtube-yellow)(https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
