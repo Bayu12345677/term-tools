@@ -34,4 +34,5 @@ jadwal sholat ✅
 
 support me
 
-![youtube](https://img.shields.io/badge/ME-Youtube-yellow)(https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+![youtube](https://img.shields.io/badge/ME-Youtube-yellow)
+(https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
