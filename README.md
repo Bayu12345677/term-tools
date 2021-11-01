@@ -1,8 +1,8 @@
 ![asu](https://img.shields.io/badge/Code-BY%20POLYGON-yellowgreen)
 ![asu](https://img.shields.io/badge/Made-INDONESIA-red)      
-                         ![asu](https://img.shields.io/badge/Program-Bash-blue)
-
-
+<a
+    href="https://img.shields.io/badge/Program-Bash-blue"
+   <\a>
 
 
 term-tools adalah sebuah tools yg berisi game dan lain lain
